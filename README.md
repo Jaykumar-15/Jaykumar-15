@@ -19,7 +19,7 @@
 
 ### 🚀 Personal Projects
 - **[LLM-Powered Job Platform](https://github.com/Jaykumar-15)** *(active)* - Agentic AI job discovery · Go · Python · Gemini · Kafka · K8s · +40% relevance
-- **[Multi-Modal Biometric Identity Platform]([https://github.com/Jaykumar-15](https://github.com/Jaykumar-15/Multi-Modal-Biometric-Identity-Platform))** - Face + voice auth · PyTorch · OpenCV · ResNet · +35% accuracy, -45% latency
+- **[Multi-Modal Biometric Identity Platform](https://github.com/Jaykumar-15/Multi-Modal-Biometric-Identity-Platform)** - Face + voice auth · PyTorch · OpenCV · ResNet · +35% accuracy, -45% latency
 - **[Realtime Generative Vision Engine](https://github.com/Jaykumar-15)** - Neural style transfer · PyTorch · AdaIN · CNN · Flask · sub-second inference
 
 ### ⚙️ Core Skills
