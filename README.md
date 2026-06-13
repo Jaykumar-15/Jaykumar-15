@@ -9,7 +9,8 @@
 - At **Westcliff University**, building **LLM-powered assistance tools** with FastAPI, RAG, and Vector Search - improved student self-service support by **36%**
 - Previously at **Hexaware Technologies**, engineering **cloud-native microservices** in Go & Python on Kubernetes, processing **8M+ records/day**
 - 2+ years shipping **AI/ML and distributed systems** across university and enterprise platforms
-- Currently pursuing → **MS in Computer Science** (GPA 3.9), graduating June 2026
+- MS in Computer Science (GPA 3.9), graduated June 2026
+
 
 ### 💼 Professional Experience
 - **AI Student Assistance Platform** *(Westcliff)* - FastAPI + OpenAI + RAG + Vector Search; contextual answers across admissions, academics & policies (+36% self-service)
