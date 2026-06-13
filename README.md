@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi, I'm Jay Patil
+# 🙋‍♂️ Hi, I'm Jaykumar Patil
 
 ## 👨‍💻 AI/ML & Full-Stack Engineer | 2+ Years | [LinkedIn](https://www.linkedin.com/in/jaykumarpatil15/) | [Email](mailto:Jaykumarpatil.tech@gmail.com) | [GitHub](https://github.com/Jaykumar-15)
 
