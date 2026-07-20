@@ -35,13 +35,6 @@
 | **Infra / DevOps** | GCP · Docker · Kubernetes · Kafka · CI/CD |
 | **ML / CV** | PyTorch · OpenCV · scikit-learn · ResNet · Hugging Face |
 
-### 📊 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaykumar-15&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumar-15&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ### 🔗 Social
 
 <p align="left">
