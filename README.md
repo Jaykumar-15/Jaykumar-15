@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi, I'm Jaykumar Patil
 
-## 👨‍💻 Software Engineer | AI/ML · Distributed Systems · Cloud Infrastructure | 2+ Years Experience
+## 👨‍💻 Software Engineer | AI/ML · Distributed Systems · Cloud Infrastructure | ~3 Years Experience
 
 [LinkedIn](https://www.linkedin.com/in/jaykumarpatil15/) | [Email](mailto:jaykumarpatil.tech@gmail.com) | [GitHub](https://github.com/Jaykumar-15) | [Portfolio](https://jaykumarpatil.tech/)
 
