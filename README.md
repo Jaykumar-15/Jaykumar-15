@@ -22,7 +22,7 @@
 - **Versora AI-Powered LMS** *(Open Source)* - React, TypeScript, Gemini API, DynamoDB, Docker; led a six-person team building AI-powered feedback and grading features
 
 ### 🚀 Personal Projects
-- **[LLM-Powered Job Platform](https://github.com/trushilpatel/JobRadar)** *(PVT. Active)* - Agentic AI job discovery · Go · Python · Gemini · Kafka · K8s · +40% relevance
+- **[LLM-Powered Job Platform](https://github.com/trushilpatel/JobRadar)** - Agentic AI job discovery · Go · Python · Gemini · Kafka · K8s · +40% relevance
 - **[Versora AI-Powered LMS](https://github.com/Jaykumar-15)** *(Open Source)* - AI-powered learning management system · React · TypeScript · Gemini API · DynamoDB · Docker · Led a 6-person team
 - **[Multi-Modal Biometric Identity Platform](https://github.com/Jaykumar-15/Multi-Modal-Biometric-Identity-Platform)** - Face + voice auth · PyTorch · OpenCV · ResNet
 
